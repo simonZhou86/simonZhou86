@@ -11,4 +11,4 @@ I am currently a final year Computer Science and Mathematics undergraduate stude
 - 💬 Ask me about projects, internship questions and other things you want to know
 - 📫 How to reach me: simon.zhou@queensu.ca
 - ⚡ Hobbies: 🏸, 🏀, 🎵
-
+- 📖 2021 summer Algorithm Engineer internship questions in chinese: [click here](https://sites.google.com/view/mengzhou/blog/chinese-version)
