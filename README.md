@@ -7,7 +7,6 @@ I am currently a final year Computer Science and Mathematics undergraduate stude
 - 🏥 I will be doing my undergraduate thesis at [Queen's Medical Informatics Laboratory](https://medi.cs.queensu.ca/) on Prostate Cancer Detection in this fall
 - 🌱 I’m currently learning advanced concepts in Deep learning models and some C++
 - 👯 I’m looking to collaborate on any other research oppotunities in Statistics or Computer Science
-- 🤔 I’m looking for help with 
 - 💬 Ask me about projects, internship questions and other things you want to know
 - 📫 How to reach me: simon.zhou@queensu.ca
 - ⚡ Hobbies: 🏸, 🏀, 🎵
