@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a final year Computer Science and Mathematics undergraduate student at Queen's University. I am interested in traditional Machine Learning, Computer Vision and Computer Aided Diagnosis in health care. For more details, please look at my [personal website](https://sites.google.com/view/mengzhou)
+I am currently a final year Computer Science and Mathematics undergraduate student at Queen's University. I am interested in traditional Machine Learning, Computer Vision and Computer Aided Diagnosis in health care. For more details, please look at my [personal website](https://simonzhou86.github.io/)
 
 
 - 🔭 I worked on a statistical research project about Contextual Multi-armed Bandit with my supervisor Prof.Song
