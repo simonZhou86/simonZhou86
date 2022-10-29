@@ -7,6 +7,6 @@ I am currently a first year MSc. in Computer Science graduate student at the Uni
 - 🌱 I’m currently learning advanced concepts in Deep learning models and some C++
 - 👯 I’m looking to collaborate on any other research oppotunities in Computer Science and/or Statistics
 - 💬 Ask me about projects, internship questions and other things you want to know
-- 📫 How to reach me: simon.zhou@queensu.ca
+- 📫 How to reach me: simon.zhou@queensu.ca or @mail.utoronto.ca
 - ⚡ Hobbies: 🏸, 🏀, 🎵
 - 📖 2021 summer Algorithm Engineer internship questions in chinese: [click here](https://sites.google.com/view/mengzhou/blog/chinese-version)
