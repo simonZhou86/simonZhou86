@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a first year MSc. in Computer Science graduate student at the University of Toronto working under [IMICS Lab](https://imics.ca/). I am interested in Computer Vision and Medical Imaging. For more details, please look at my [acamedia page](https://www.cs.toronto.edu/~simonzhou/)
+I am currently a second-year MSc. in Computer Science student at the University of Toronto working in the [IMICS Lab](https://imics.ca/). I am interested in Computer Vision and Medical Imaging. For more details, please look at my [acamedia page](https://www.cs.toronto.edu/~simonzhou/)
 
 
 - 🔭 I have worked on the statistical research project in Contextual Multi-armed Bandit with [Prof. Song](https://sites.google.com/view/yangleisong) and Medical Imaging project at [Queen's Medical Informatics Laboratory](https://medi.cs.queensu.ca/).
