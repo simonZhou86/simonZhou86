@@ -9,4 +9,4 @@ I obtained my MSc. in Computer Science degree at the University of Toronto in Ja
 - 💬 Ask me about projects, internship questions and other things you want to know
 - 📫 How to reach me: simon.zhou@queensu.ca or @mail.utoronto.ca
 - ⚡ Hobbies: 🏸, 🏀, 🎵
-- 📖 2021 summer Algorithm Engineer internship questions in chinese: [click here](https://sites.google.com/view/mengzhou/blog/chinese-version)
+- 📖 2021 summer Algorithm Engineer internship questions in chinese: [click here](https://simonzhou86.github.io/posts/2021/08/blog-post-1/)
